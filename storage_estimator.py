@@ -1,4 +1,4 @@
-print("--- Storage Capacity Estimator ---")
+print("*** Local Storage Estimator v1.5 ***")
 storage_mb = 4096
 print("Total Megabytes (MB):", storage_mb)
 print("--- Storage Capacity Estimator ---")
